@@ -1,0 +1,9 @@
+{
+    "id" : "PandaBlock",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "PandaBlock",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
