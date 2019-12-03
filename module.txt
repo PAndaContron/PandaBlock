@@ -4,6 +4,8 @@
     "author" : "",
     "displayName" : "PandaBlock",
     "description" : "",
-    "dependencies" : [],
+    "dependencies" : [
+		{"id": "CoreAssets", "minVersion": "1.0.0-SNAPSHOT"}
+    ],
     "serverSideOnly" : false
 }
